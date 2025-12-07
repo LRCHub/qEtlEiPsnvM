@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ADORE U",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-07T08:22:10.202828Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Adore U",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/01_Adore_U_SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "i adore u",
+      "artist": "Fred again.. feat. Obongjayar",
+      "has_synced": true,
+      "path": "select/02_i_adore_u_Fred_again.._feat._Obongjayar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "adore u",
+      "artist": "Fred again.., Obongjayar",
+      "has_synced": true,
+      "path": "select/03_adore_u_Fred_again..,_Obongjayar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "adore u",
+      "artist": "Fred again.. & Obongjayar",
+      "has_synced": true,
+      "path": "select/04_adore_u_Fred_again.._&_Obongjayar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Adore U",
+      "artist": "Banky W.",
+      "has_synced": true,
+      "path": "select/05_I_Adore_U_Banky_W..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Adore U",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/06_Adore_U_SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "adore u",
+      "artist": "Fred again..",
+      "has_synced": true,
+      "path": "select/07_adore_u_Fred_again...lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Adore U (Vocal Team Ver.)",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/08_Adore_U_(Vocal_Team_Ver.)_SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Adore U",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/09_Adore_U_SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "아낀다 Adore U",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/10_아낀다_Adore_U_SEVENTEEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ADORE U",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_ADORE_U_NMIXX.txt"
+    }
+  ]
+}
