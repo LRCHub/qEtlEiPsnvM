@@ -1,0 +1,59 @@
+# NMIXX – ADORE U
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+마주치는 눈빛엔
+침묵만이 가득해
+With this chaos
+뒤엉켜버린 chemical
+몰아치는 감정에
+반복되는 stupid play
+What to do, oh
+맘에도 없는 말을 또 뱉어
+Oh 다 알면서도 messed up
+Now I’m feeling like a fool (nah-ah)
+또 널 탓하고만 있어
+습관처럼 blame ya
+매번 같은 preview
+익숙하면 할수록
+이기적인 내 온도
+내 맘을 꺼내보일 수 있다면
+You’d see how much I adore ya, dore ya
+But I think I’m out of control
+Here we go again
+질리도록 오고 가는 hell and heaven
+All over again
+서로 같은 맘인데도
+Keep round and round
+마주한 대답은 cynical
+가까울수록 더 날이 서
+Oh 또 의미없는 break up
+Now I'm feeling like a fool (nah-ah)
+계속 나빠지고 있어
+습관처럼 blame ya
+매번 같은 preview
+익숙하면 할수록
+이기적인 내 온도
+내 맘을 꺼내보일 수 있다면
+You’d see how much I adore ya, dore ya
+But I think I’m out of control
+Hot and cold
+Back and forth
+그래도 난 adore ya, dore ya
+Hot and cold
+(Oh 다 알면서도 messed up)
+Back and forth
+(Now I’m feeling like a fool)
+Every time, I adore ya, dore ya
+(또 널 탓하고만 있어)
+But I think I’m out of control
+I don’t wanna blame ya
+결국 같은 review
+맘을 있는 그대로
+전부 내주고 싶어
+어설픈 내 사랑을 전하고파
+(Show you what I’ve got)
+You’d see how much I adore ya, dore ya
+But that's something you’ll never know
+```
